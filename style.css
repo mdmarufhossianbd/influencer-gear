@@ -85,3 +85,16 @@ nav ul i {
     background-position: center;
     background-repeat: no-repeat;
 }
+
+/* brand section styles */
+
+.brans_img {
+    border-top: 2px solid #c0ccda1a;
+    border-bottom: 2px solid #c0ccda1a;
+    padding: 40px;
+}
+
+.brans_img {
+    display: flex;
+    justify-content: space-around;
+}
